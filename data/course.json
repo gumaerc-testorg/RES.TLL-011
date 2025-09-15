@@ -1,0 +1,33 @@
+{
+  "term": "Spring",
+  "year": "2025",
+  "level": [
+    "Non-Credit"
+  ],
+  "topics": [
+    [
+      "Teaching and Education",
+      "Curriculum and Teaching"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "andragogy"
+  },
+  "course_image": {
+    "content": "",
+    "website": "andragogy"
+  },
+  "course_title": "Andragogy",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "",
+  "department_numbers": [],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.TLL-011",
+  "learning_resource_types": [],
+  "site_uid": "f74f87b9-b7a0-4a2c-979d-fec65008d0ff",
+  "site_short_id": "RES.TLL-011",
+  "site_url_path": "courses/res-tll-011-andragogy-spring-2025"
+}
